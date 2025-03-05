@@ -1,8 +1,8 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
-
+/**
+This class is for the basics of listNode
+@author Ta'Rissa Woods
+@ version %I% %G%
+*/
 public class ListNode implements Linkable
 {
 	private Comparable listNodeValue;

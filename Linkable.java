@@ -1,8 +1,8 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
-
+/**
+This is an iterface where the methods here will be implemented in ListNode
+@author Ta'Rissa Woods
+@ version %I% %G%
+*/
 public interface Linkable
 {
    Comparable getValue();
